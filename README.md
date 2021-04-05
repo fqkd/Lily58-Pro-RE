@@ -1,4 +1,4 @@
-# Lily58
+# Lily58 Pro
 Lily58 is 6*4+4keys column-staggered split keyboard.
 ![Lily58Lite-Pic](https://user-images.githubusercontent.com/6285554/84393842-13960900-ac37-11ea-811e-65db2948ca73.jpg)
 
