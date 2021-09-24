@@ -8,3 +8,4 @@ This fork adds a rotary encoder to the [Pro](https://github.com/kata0510/Lily58/
 
 - [ ] update build guide
 - [ ] firmware guide
+Hi dear, can u please provide me Gerber files with format RS274X of your Lily58pro-re PCB, if possible  ?
